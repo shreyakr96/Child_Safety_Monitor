@@ -1,4 +1,4 @@
-# Child_monitor
+# Child_Safety_Monitor
 
 This project aims to monitor the motion of a child, and track the child using mean shift tracking. 
 The broad idea is for parents to be alerted when the child climbs on to certain high objects. 
